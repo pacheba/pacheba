@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Pedro
 
-<!--
-**pacheba/pacheba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Júnior apaixonado por tecnologia e programação.  
+🚀 Focado em aprender e criar projetos que resolvem problemas reais.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+- HTML, CSS, JavaScript
+- C#
+- PHP
+- .NET Framework
+- Angular
+- Git & GitHub
+- SQL (MySQL, PostgreSQL)
+
+---
+
+## 📌 Projetos em Destaque
+- [📝 To-Do List](https://github.com/pacheba/todo-list)  
+- [📊 API de Usuários](https://github.com/pacheba/api-usuarios)  
+- [🌐 Portfólio Pessoal](https://github.com/seu-usuario/portfolio)
+
+---
+
+## 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacheba&show_icons=true&theme=dracula)
+
+---
+
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-de-oliveira-9408a91a6/) | [E-mail](mailto:joaopamaral2002@gmail.com)
